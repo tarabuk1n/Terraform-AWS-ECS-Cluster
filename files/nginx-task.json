@@ -1,0 +1,15 @@
+[
+  {
+    "name": "project-image",
+    "image": "vineethvijay/nginx-custom-port:latest",
+    "cpu": 10,
+    "memory": 512,
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": 8080,
+        "hostPort": 80
+      }
+    ]
+  }
+]
