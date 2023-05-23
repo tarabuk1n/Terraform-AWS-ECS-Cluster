@@ -1,4 +1,4 @@
-# Creating an AWS ECS cluster using Terraform. 
+# Creating an AWS ECS cluster using Terraform
 
 ![Terraform AWS ECS Cluster](https://miro.medium.com/max/700/1*A-WiJ5SoQ1C3hlYLWi0m3g.png)
 
@@ -9,4 +9,4 @@ The code includes:
 - Creating an Amazon Elastic Container Cluster with metrics tracking via CloudWatch
 - Warm pool prepared for rapid scaling based on metrics
 
-All variables are stored in variables.tf to run on any server with the ability to quickly specify your parameters for the build.
+All variables are stored in _variables.tf_ to run on any server with the ability to quickly specify your parameters for the build.
