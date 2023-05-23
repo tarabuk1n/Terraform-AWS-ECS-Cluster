@@ -1,6 +1,6 @@
-![Terraform AWS ECS Cluster](https://miro.medium.com/max/700/1*A-WiJ5SoQ1C3hlYLWi0m3g.png)
+# Creating an AWS ECS cluster using Terraform. 
 
-Creating an AWS ECS cluster using Terraform. 
+![Terraform AWS ECS Cluster](https://miro.medium.com/max/700/1*A-WiJ5SoQ1C3hlYLWi0m3g.png)
 
 The code includes: 
 - Docker test image for Nginx
